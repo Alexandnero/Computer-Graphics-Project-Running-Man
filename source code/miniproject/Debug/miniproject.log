@@ -1,0 +1,6 @@
+﻿  miniproject.cpp
+b:\yinyue56124568\source code\miniproject\miniproject.cpp(327): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+b:\yinyue56124568\source code\miniproject\miniproject.cpp(328): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+b:\yinyue56124568\source code\miniproject\miniproject.cpp(509): warning C4838: 从“double”转换到“GLfloat”需要收缩转换
+  miniproject.vcxproj -> B:\YinYue56124568\source code\Debug\miniproject.exe
+  miniproject.vcxproj -> B:\YinYue56124568\source code\Debug\miniproject.pdb (Full PDB)
